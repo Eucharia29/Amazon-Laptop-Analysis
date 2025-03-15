@@ -5,7 +5,7 @@
 
 Laptops are one of the most sought after electronic devices, with customers considering multiple factors such as price, brand, specifications, and ratings before making a purchase. This project aims to analyze Amazon laptop listings to identify key trends, including the relationship between price and customer ratings, brand performance, and RAM influence on pricing.
 
-The data was scraped from Amazon using Python’s **BeautifulSoup**, cleaned in **Excel**, and analyzed using **Power BI** to generate meaningful insights. The visualizations and KPIs help both consumers make informed buying decisions and retailers optimize their pricing strategies.
+The data was scraped from Amazon using Python’s **BeautifulSoup**, cleaned in **Excel** and **Python**, then analyzed using **Power BI** to generate meaningful insights. The visualizations and KPIs help both consumers make informed buying decisions and retailers optimize their pricing strategies.
 
 ## Objective of the Analysis
 
