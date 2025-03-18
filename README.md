@@ -1,6 +1,6 @@
 **TABLE OF CONTENT**
 
-[PROJECT OVERVIEW](## **Project Overview**)
+[PROJECT OVERVIEW](#Project-Overview)
 
 # **Amazon Laptop Data Analysis**
 
